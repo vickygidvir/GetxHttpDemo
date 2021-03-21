@@ -1,6 +1,6 @@
 # cosmoapp
 
-A new Flutter project.
+A new demo Flutter project using Getx and Http
 
 ## Getting Started
 
